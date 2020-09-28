@@ -22,3 +22,6 @@ And, if you want to compile the example only, you can use this command:
 make example
 
 ```
+
+### Compilation on Windows
+It is also pretty easy to compile SpaceNotifications on Windows, just open your favourite IDE and compile, or install MinGW and run the Makefile with "make.exe" that came along with MinGW.
