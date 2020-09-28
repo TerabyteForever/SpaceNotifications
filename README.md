@@ -4,7 +4,7 @@ A notification server for CLI based operating systems.
 ### How to compile?
 To compile SpaceNotifications, you have to have Boost library installed.
 
-Once you've installed the Boost library, you can compile SpaceNotifications the Makefile given with using following command:
+Once you've installed the Boost library, you can compile SpaceNotifications by Makefile with using following command:
 
 ```
 make all
